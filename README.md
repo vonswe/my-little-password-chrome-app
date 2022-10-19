@@ -31,8 +31,8 @@ git checkout -b pepper_42 origin/pepper_42
 
 # Clone "My Little Password" Git repository.
 cd /path/to/workspace/
-git clone git@github.com:beaufortfrancois/my-little-password-chrome-app.git
-cd my-little-password-chrome-app
+git clone git@github.com:vonswe/my-little-password-chrome-app.git
+cd filelock-chrome-app
 
 # Install libarchive-fork custom NaCl Port.
 /path/to/naclports/src/bin/naclports --toolchain=pnacl -f \
@@ -43,12 +43,12 @@ install src/third-party/libarchive-fork
 
 ```bash
 # Build Release NaCl module
-cd /path/to/my-little-password-chrome-app/src
+cd /path/to/filelock-chrome-app/src
 make
 ```
 OR
 ```bash
 # Build Debug NaCl module
-cd /path/to/my-little-password-chrome-app/src
+cd /path/to/filelock-chrome-app/src
 CONFIG=Debug make
 ```
