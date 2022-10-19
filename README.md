@@ -1,15 +1,13 @@
-# My Little Password Chrome App
+# FileLock Chrome App
 
-This Chrome App lets you create some password-protected ZIP files thanks to [Portable Native
+This Chrome App lets you create password-protected ZIP files thanks to [Portable Native
 Client](http://gonacl.com) and more specifically multi-format archive and compression library [libarchive](https://github.com/libarchive/libarchive) NaCl port.
 
 Get it on the Chrome Web Store at https://chrome.google.com/webstore/detail/floifiapkmdcpbnppnfjikpbmgbbdijf
 
-<img src="https://raw.githubusercontent.com/beaufortfrancois/my-little-password-chrome-app/master/screenshot.png">
+## Credits
 
-## Image Credits
-
-[Water Reservoir](http://www.deviantart.com/art/Group-Background-5-Water-Reservoir-306196848) background image was created by [MLP-Vector-Collabs](http://mlp-vector-collabs.deviantart.com/)
+[Original developer - beaufortfrancois](https://github.com/beaufortfrancois/my-little-password-chrome-app)
 
 ## Development Instructions
 
